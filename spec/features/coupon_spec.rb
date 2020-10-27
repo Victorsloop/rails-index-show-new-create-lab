@@ -15,7 +15,7 @@ describe 'Multiple coupons are shown' do
     expect(page).to have_content(/Chipotle|Jamba/)
   end
 end
-
+## Giving me issues because accidentlaly crated random couponto test , wouldnt recognize the other two
 # describe 'form page' do
 #   it 'form renders with the new action' do
 #     visit new_coupon_path
